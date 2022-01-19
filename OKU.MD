@@ -1,0 +1,19 @@
+# BU ALTYAPI ArdaDemr YOUTUBE KANALI TARAFINDAN PAYLAŞILMIŞTIR
+
+# DİSCORD: https://discord.gg/RZwGEGKBct
+
+`
+GÜNCEL MÜZİK BOTU ALTYAPISI
+`
+
+`
+VERDİĞİNİZ DESTEKTEN DOLAYI TEŞEKKÜRLER <3
+`
+
+`
+https://www.youtube.com/channel/UCk2r0Vkh-ktRrseLrL-ZUCw
+`
+
+
+**TOKENI .env KISMINA GİRMELİSİNİZ**
+**GERI KALANLARI AYARLAR KISMINA**
